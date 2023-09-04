@@ -29,7 +29,7 @@ The Loan Application System is a user-friendly web application built with React 
    git clone https://github.com/utkarsh-senpai/DemystDataAssignment.git
    cd DemystDataAssignment
    
-Install dependencies:
+#Install dependencies:
 
 npm install
 
@@ -40,7 +40,7 @@ npm start
 Open your browser and access http://localhost:3000.
 
 
-Docker Support
+#Docker Support
 
 This project is Docker-ready for easy deployment. Follow these steps to run the application in a Docker container:
 Build the Docker image:
@@ -53,13 +53,22 @@ docker run -p 3000:3000 loan-application
 Access the application in your browser at http://localhost:3000.
 
 
-Usage
+#Usage
+
 Fill out the loan application form with your details.
+
 Choose your preferred accounting provider.
+
 Click "Submit Application."
+
 Receive an instant decision on your loan application.
 
-Technologies Used
+
+#Technologies Used
+
 React.js: JavaScript library for building user interfaces.
+
 Node.js: Backend server for API integration.
+
 CSS: Styling the application.
+
