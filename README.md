@@ -1,11 +1,6 @@
 # DemystDataAssignment
 # Loan Application System
 
-![Loan Application](https://img.shields.io/badge/Loan-Application-brightgreen)
-![React](https://img.shields.io/badge/React-16.14.0-blue)
-![Node.js](https://img.shields.io/badge/Node.js-14.17.5-green)
-![Docker](https://img.shields.io/badge/Docker-Supported-blueviolet)
-![License](https://img.shields.io/github/license/utkarsh-senpai/DemystDataAssignment)
 
 ## Overview
 
